@@ -95,6 +95,126 @@ export default  {
     name: "SoftPerfect WiFi Guard",
     image: "https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Fwifiguard.png?alt=media",
     link: "https://www.softperfect.com/products/wifiguard/"
+  },
+  {
+    id: 17,
+    name: "VirtualBox",
+    image: "https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Fvirtualbox.svg?alt=media",
+    link: "https://www.virtualbox.org/wiki/Downloads"
+  },
+  {
+    id: 18,
+    name: "XAMPP",
+    image: "https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Fxampp.svg?alt=media",
+    link: "https://www.apachefriends.org/index.html"
+  },
+  {
+    id: 19,
+    name: "Docker",
+    image: "https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Fdocker.svg?alt=media",
+    link: "https://www.docker.com/products/docker-desktop"
+  },
+  {
+    id: 20,
+    name: "HandBrake",
+    image: "https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Fhandbrake.png?alt=media",
+    link: "https://handbrake.fr/"
+  },
+  {
+    id: 21,
+    name: "CodeBlocks",
+    image: "https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Fcodeblocks.png?alt=media",
+    link: "http://www.codeblocks.org/downloads"
+  },
+  {
+    id: 22,
+    name: "FastStone Capture",
+    image: "https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Ffaststone.png?alt=media",
+    link: "https://www.faststone.org/FSCaptureDownload.htm"
+  },
+  {
+    id: 23,
+    name: "Eclipse IDE",
+    image: "https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Feclipse.svg?alt=media",
+    link: "https://www.eclipse.org/downloads/"
+  },
+  {
+    id: 24,
+    name: "Java JDK",
+    image: "https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Fjava.svg?alt=media",
+    link: "https://www.oracle.com/java/technologies/javase-downloads.html"
+  },
+  {
+    id: 25,
+    name: "OBS Studio",
+    image: "https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Fobs.svg?alt=media",
+    link: "https://obsproject.com/"
+  },
+  {
+    id: 26,
+    name: "WinRAR",
+    image: "https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Fwinrar.svg?alt=media",
+    link: "https://www.win-rar.com/"
+  },
+  {
+    id: 27,
+    name: "DB SQLite Browser",
+    image: "https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Fsqlitebrowser.svg?alt=media",
+    link: "https://sqlitebrowser.org/"
+  },
+  {
+    id: 28,
+    name: "Samsung Magician",
+    image: "https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Fsamsung-magician.png?alt=media",
+    link: "https://www.samsung.com/semiconductor/minisite/ssd/download/tools/"
+  },
+  {
+    id: 29,
+    name: "Visual C++ Runtimes",
+    image: "https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Fvisual-cpp.svg?alt=media",
+    link: "https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/"
+  },
+  {
+    id: 30,
+    name: "Office Pro 2019",
+    image: "https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Foffice-2019-pro.svg?alt=media",
+    link: "https://www.microsoft.com/en-us/microsoft-365/p/office-professional-2019/cfq7ttc0k7c5"
+  },
+  {
+    id: 31,
+    name: "XMind",
+    image: "https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Fxmind.png?alt=media",
+    link: "https://www.xmind.net/"
+  },
+  {
+    id: 32,
+    name: "VLC",
+    image: "https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Fvlc.svg?alt=media",
+    link: "https://www.videolan.org/vlc/index.html"
+  },
+  {
+    id: 33,
+    name: "Firefox",
+    image: "https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Ffirefox.svg?alt=media",
+    link: "https://www.mozilla.org/en-US/firefox/new/"
+  },
+  {
+    id: 34,
+    name: "Steam",
+    image: "https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Fsteam.svg?alt=media",
+    link: "https://store.steampowered.com/about/"
+  },
+  {
+    id: 35,
+    name: "Discord",
+    image: "https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Fdiscord.svg?alt=media",
+    link: "https://discord.com/download"
+  },
+  {
+    id: 36,
+    name: "MPC HC",
+    image: "https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Fmpc.png?alt=media",
+    link: "https://mpc-hc.org/"
   }
 ]
 };

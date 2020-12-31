@@ -9,8 +9,10 @@
 .heading1 {
   font-family: "Inter", sans-serif;
   font-weight: 900;
+  text-align: center;
 }
 
 .text-muted {
   text-transform: capitalize;
+  text-align: center;
 }

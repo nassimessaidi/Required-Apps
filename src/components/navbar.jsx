@@ -1,8 +1,9 @@
 import React, { Component } from "react";
 import "./styles/navbar.css";
+import data from "./data";
 
 class Navbar extends Component {
-  state = {};
+  state = { data };
   render() {
     return (
       <nav className="nav-bar mt-4 mb-2">
@@ -15,6 +16,11 @@ class Navbar extends Component {
           Essential apps and software to me when I will install a fresh windows
           10
         </p>
+        <button type="button" class="btn btn-primary mt-2">
+          Number of Apps{" "}
+          <span class="badge badge-light">{this.state.data.apps.length}</span>
+          <span class="sr-only">unread messages</span>
+        </button>
       </nav>
     );
   }

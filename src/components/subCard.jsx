@@ -1,17 +1,14 @@
 import React, { Component } from "react";
 import Card from "./card";
-import "./styles/card.css";
-import data from "./data";
-import { Link } from "react-router-dom";
+import Cards from "./cards";
+import subdata from "./subData";
 
-class Cards extends Component {
-  state = { data };
+class SubCard extends Component {
+  state = { subdata };
   render() {
     return (
       <div className="cards">
-        {console.log(this.state.data.apps.length)}
-
-        {this.state.data.apps.map((item) => (
+        {this.state.subdata.python.map((item) => (
           <Card
             key={item.id}
             name={item.name}
@@ -24,4 +21,4 @@ class Cards extends Component {
   }
 }
 
-export default Cards;
+export default SubCard;

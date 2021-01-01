@@ -38,7 +38,7 @@ export default  {
   },
   {
     id: 7,
-    name: "python",
+    name: "python 3",
     image: "https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Fpython.svg?alt=media",
     link: "/python"
   },

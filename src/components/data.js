@@ -40,7 +40,7 @@ export default  {
     id: 7,
     name: "python",
     image: "https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Fpython.svg?alt=media",
-    link: "https://www.python.org/downloads/release/python-385/"
+    link: "/python"
   },
   {
     id: 8,

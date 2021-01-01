@@ -13,7 +13,7 @@ function App() {
         <Switch>
           <Route path="/" exact component={Cards} />
           <Route path="/python" exact component={SubCard} />
-          <Route path="/" render={() => <NotFound/>} />
+          <Route path="/" render={() => <NotFound />} />
         </Switch>
       </div>
     </Router>

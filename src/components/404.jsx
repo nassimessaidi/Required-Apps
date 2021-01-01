@@ -12,7 +12,17 @@ class NotFound extends Component {
           <h1>
             <span className="col-color">404</span> Not Found
           </h1>
-          <h6>Looks like the page you were looking for is no longer here.</h6>
+          <div className="text-infos">
+            <h5>
+              Sorry! The page you’re looking for does not exist. Instead, try
+              one of the following:
+            </h5>
+            <ol className="order-list">
+              <li>Hit the home button.</li>
+              <li>Hit the "back" button on your browser.</li>
+            </ol>
+          </div>
+
           <Link to="/">
             <button className="butn">
               <HomeIcon />

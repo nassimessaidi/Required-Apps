@@ -17,8 +17,8 @@ class Navbar extends Component {
           />
         </Link>
         <p className="text-muted">
-          Essential apps and software to me when I will install a fresh windows
-          10
+          Essential Apps And Software To Me every time I installed a fresh
+          windows 10
         </p>
         <AppsCounter
           msg={"Apps Number"}
@@ -26,10 +26,6 @@ class Navbar extends Component {
         />
       </nav>
     );
-  }
-
-  static pythonDir() {
-    return;
   }
 }
 

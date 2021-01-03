@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import "./styles/navbar.css";
 import data from "./data";
 import AppsCounter from "./appsCounter";
-import { Link } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 
 class Navbar extends Component {
   state = { data };
@@ -20,10 +20,6 @@ class Navbar extends Component {
           Essential Apps And Software To Me every time I installed a fresh
           windows 10
         </p>
-        <AppsCounter
-          msg={"Apps Number"}
-          counter={this.state.data.apps.length}
-        />
       </nav>
     );
   }

@@ -10,13 +10,13 @@ export default  {
     id: 2,
     name: "VSCode",
     image: "https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Fvscode.svg?alt=media",
-    link: "https://code.visualstudio.com/"
+    link: "/vscode"
   },
   {
     id: 3,
-    name: "PyCharm",
-    image: "https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Fpycharm.svg?alt=media",
-    link: "https://www.jetbrains.com/pycharm/download/#section=windows"
+    name: "python 3",
+    image: "https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Fpython.svg?alt=media",
+    link: "/python"
   },
   {
     id: 4,
@@ -34,13 +34,13 @@ export default  {
     id: 6,
     name: "Adobe Products",
     image: "https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Fadobe.svg?alt=media",
-    link: "https://www.adobe.com/creativecloud.html",
+    link: "/adobe",
   },
   {
     id: 7,
-    name: "python 3",
-    image: "https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Fpython.svg?alt=media",
-    link: "/python"
+    name: "PyCharm",
+    image: "https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Fpycharm.svg?alt=media",
+    link: "https://www.jetbrains.com/pycharm/download/#section=windows"
   },
   {
     id: 8,
@@ -216,6 +216,12 @@ export default  {
     image: "https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Fmpc.png?alt=media",
     link: "https://mpc-hc.org/"
   },
+  {
+    id: 37,
+    name: "Postman",
+    image: "https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Fgetpostman.svg?alt=media",
+    link: "https://www.postman.com/downloads/"
+  }
   
 ]
 };

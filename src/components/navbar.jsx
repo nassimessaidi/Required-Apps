@@ -12,7 +12,7 @@ class Navbar extends Component {
         <Link to="/">
           <img
             className="mb-3"
-            src="https://4.bp.blogspot.com/-i2NtKpGy0yU/X4ol9mCxRjI/AAAAAAAACic/ba4Nj3Q7gDgdjgsmHacXaJHIpsH9bQJEwCK4BGAYYCw/s1600/blog%2Blogo.png"
+            src="https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Fblog%20logo.png?alt=media"
             alt="NASSIM ESSAIDI"
           />
         </Link>

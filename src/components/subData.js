@@ -217,7 +217,7 @@ adobe: [
   {
     id: 5,
     name: "Premiere Pro CC",
-    image: "https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Flr.svg?alt=media",
+    image: "https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Fpr.svg?alt=media",
     link: "/adobe"
   },
   {

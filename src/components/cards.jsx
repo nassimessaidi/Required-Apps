@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import Card from "./card";
 import "./styles/card.css";
 import data from "./data";
-import { Link } from "react-router-dom";
 import AppsCounter from "./appsCounter";
 
 class Cards extends Component {

@@ -21,7 +21,7 @@ class Card extends Component {
             </div>
           </Link>
         ) : (
-          <a href={this.props.link} target="_blank">
+          <a href={this.props.link} target="_blank" rel="noreferrer">
             <div className="card">
               <div className="img-frame im1">
                 <img
@@ -31,7 +31,7 @@ class Card extends Component {
                 />
               </div>
 
-              <a href={this.props.link} target="_blank">
+              <a href={this.props.link} target="_blank" rel="noreferrer">
                 <h3 className="text-center mt-4 title">{this.props.name}</h3>
               </a>
             </div>

@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import AppsCounter from "./appsCounter";
 import Card from "./card";
-import Cards from "./cards";
 import subdata from "./subData";
 
 class SubCard extends Component {

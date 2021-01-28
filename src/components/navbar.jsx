@@ -1,8 +1,7 @@
 import React, { Component } from "react";
 import "./styles/navbar.css";
 import data from "./data";
-import AppsCounter from "./appsCounter";
-import { Link, useLocation } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 class Navbar extends Component {
   state = { data };

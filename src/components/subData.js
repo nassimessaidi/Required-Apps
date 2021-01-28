@@ -2,7 +2,7 @@ export default  {
   python: [
     {
       id: 17,
-      name: "Python 3.5.8",
+      name: "Python 3.8.5",
       image: "https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Fpython.svg?alt=media",
       link: "https://www.python.org/downloads/release/python-385/"
     },

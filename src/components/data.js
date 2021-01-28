@@ -221,6 +221,12 @@ export default  {
     name: "Postman",
     image: "https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Fgetpostman.svg?alt=media",
     link: "https://www.postman.com/downloads/"
+  },
+  {
+    id: 38,
+    name: "QuickLook",
+    image: "https://firebasestorage.googleapis.com/v0/b/requiredappstoinstall.appspot.com/o/Required%20Apps%2FImages%2Fquicklook.png?alt=media",
+    link:"https://www.microsoft.com/en-us/p/quicklook/9nv4bs3l1h4s?activetab=pivot:overviewtab"
   }
   
 ]
